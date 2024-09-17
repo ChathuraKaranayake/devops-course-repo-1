@@ -1,2 +1,3 @@
 # devops-course-repo-1
-This is for the devops course
+This is for the devops course <br>
+chathura karanayake
